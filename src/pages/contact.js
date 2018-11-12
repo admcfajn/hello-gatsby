@@ -7,5 +7,9 @@ export default () => (
     <Link to="/">Home</Link>
     <Header headerText="Contact" />
     <p>Send us a message!</p>
+    ---
+    title: A blog post
+    author: Kyle Mathews
+    ---
   </div>
 )
